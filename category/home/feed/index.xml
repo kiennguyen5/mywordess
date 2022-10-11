@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>home</title>
+	<atom:link href="https://kiennguyen5.github.io/mywordess/category/home/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kiennguyen5.github.io/mywordess</link>
+	<description></description>
+	<lastBuildDate>Mon, 12 Sep 2022 17:23:02 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://kiennguyen5.github.io/mywordess/wp-content/uploads/2022/08/thiet-ke-hinh-tron-dep_111541493-100x100.jpg</url>
+	<title>home</title>
+	<link>https://kiennguyen5.github.io/mywordess</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Home</title>
+		<link>https://kiennguyen5.github.io/mywordess/http-localhost-testt-net/</link>
+					<comments>https://kiennguyen5.github.io/mywordess/http-localhost-testt-net/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenkiennn]]></dc:creator>
+		<pubDate>Mon, 12 Sep 2022 16:12:47 +0000</pubDate>
+				<category><![CDATA[home]]></category>
+		<guid isPermaLink="false">https://kiennguyen5.github.io/mywordess/?p=123</guid>
+
+					<description><![CDATA[OUR UNIQUE STYLE Lorem ipsum dolor sit amet, diam habemus pri no, simul forensibus dissentiet no nec, postea integre ex eum. Bonorum saperet fabellas sea eu, ex inermis volumus blandit qui. Vocibus accusamus pertinacia pri in, nec et diam sint delicatissimi. Aeque tacimates quo in. Vis dolorum efficiantur ad, falli laudem gloriatur ne vim. Ad [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://kiennguyen5.github.io/mywordess/http-localhost-testt-net/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
